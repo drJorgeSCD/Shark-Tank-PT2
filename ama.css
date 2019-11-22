@@ -1,0 +1,28 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+#navBar{
+background-color: #0F52BA;
+height:50px;
+width: 100%;
+overflow: none;
+}
+
+#bgColor{
+  background-color:#f8f8ff;
+}
+
+#logoDiv{
+  background-color:#03254c;
+  height: 70px;
+  width:100%;
+  overflow: none;
+  box-shadow: 3px 1px 3px;
+  position:relative;
+}
+
+#lgo{
+  margin-top:10px;
+}
