@@ -26,3 +26,26 @@ overflow: none;
 #lgo{
   margin-top:10px;
 }
+
+.ulBar li{
+  display: inline-block;
+  float: right;
+  margin-top: 15px;
+  font-size: 15px;
+  text-shadow: 3px 2px 0px rgba(0,0,0,0.3);
+}
+
+.ulBar a{
+  text-decoration: none;
+  color:#f8f8ff;
+  font-family: candara;
+}
+
+.li_space{
+  margin-right: 20px;
+}
+
+.ulBar a li:hover{
+  color:brown;
+	text-decoration: underline;
+}
