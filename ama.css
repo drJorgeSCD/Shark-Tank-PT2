@@ -49,3 +49,9 @@ overflow: none;
   color:#03254c;
 	text-decoration: underline;
 }
+
+.midContent{
+  width: 60%;
+  height: 30px;
+  margin-top: 25px;
+}
