@@ -89,4 +89,24 @@ overflow: none;
 .paraFont{
   padding-top: 140px;
   color: #f8f8ff;
+  font-family: fantasy;
+}
+
+.imgCenter{
+  width: 100%;
+  height: 200px;
+  margin-top: 20px;
+}
+
+.hR{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.paragraph{
+  font-family: Courier;
+  }
+
+.heading{
+  font-family: courier;
 }
